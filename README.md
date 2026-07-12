@@ -22,7 +22,7 @@ precomputed at build time, so **no private keys exist anywhere** — not on disk
 
 ```bash
 # 0. get the testbed
-git clone https://github.com/jubnl/trek-plugin-testbed ~/dev/trek-plugin-testbed
+git clone git@github.com:jubnl/trek-plugin-testbed.git ~/dev/trek-plugin-testbed
 
 # 1. the fake registry (leave running)
 cd ~/dev/trek-plugin-testbed

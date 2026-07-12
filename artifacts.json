@@ -1,0 +1,83 @@
+{
+  "sig-signed@1.0.0": {
+    "file": "sig-signed-1.0.0.tar.gz",
+    "size": 558,
+    "sha256": "dea5bfc8fb281f80fe18cbd3be67318191f4261728cc2ec866fc87360ad04b81",
+    "sigA": "JaWE2DRHzNuNbMM0/tiZYC4ADdCcsQuVbHMbquiSOo+GHp+NRuP0I3G2Txj+otEyxdgrW40QUHNWVyaFHjvXAw==",
+    "sigB": "RN3bQRqC1CIJidi6L+fsh/NWoMKTAFukD1OQ97vIux28RxEkQDH+sSUBEWWPrTsT6UzJ2LOBAnoWzrQcMovBBA==",
+    "sigBadB": "CpgjXvnLwsLdxQhO8hFiCIgTT7l8zscCh6RnDxKpAKS3qDMJ2Dm8RwSGX78ww/Fc7eqJ32PTTNZ/+bmql1hwBA==",
+    "sigBadA": "IrkCu673lUPXYYBvk/s4MMjTsmEEn6EYjVnpVoPzSbEAnE63r/KPGRALw/HCZzmGEhEUzRWqzc1vqtwKa5YJCA=="
+  },
+  "sig-unsigned@1.0.0": {
+    "file": "sig-unsigned-1.0.0.tar.gz",
+    "size": 565,
+    "sha256": "63c554fa17a84440d0c8e4c9403ac9631d637fbc9dc5f588f57e4ebe032ceb9c",
+    "sigA": "EKAbJRDy+DBYVPlqEMoAzJgPzma9ioSUxTrJM0Y2T+R8V7VVJoHvLAyo/dE62SVMFHBj9ZTV5FzJbALMRZQTAA==",
+    "sigB": "FzmNnLwl2QdAHKsf4NUcadifr4pRt6fWI90Dr9KgQA2I3fTmFc1oo0kF9Y6V9stsMKdeRbXHb1NYVCjNZhpODA==",
+    "sigBadB": "JKZIcPqfLB8AanIGzRtxNIxJjJtja5Vl3ak+D6PAf+UAK3jN8dtbmPbd1zCAukI06lqzGR6HAgnO1loB7bSoCw==",
+    "sigBadA": "V6apjzgbSH/l0pHqQqtehne4R82SDyEmIewPF034MTdlvhy2jG5p72bOqG0WuZsNP5kEjWvcYXC0zUHBwDg0AA=="
+  },
+  "sig-invalid@1.0.0": {
+    "file": "sig-invalid-1.0.0.tar.gz",
+    "size": 560,
+    "sha256": "b4905b9fd5fb5eb65b19400cc403ebffa02b3ba951046e37fc160c4ffa5140f3",
+    "sigA": "3PyqA3q4M3MGhVRPxuLdDxskBv1pFrZnfBJZn1fm6TZn0nM8rH7ya1L2Gh4NRTDIopFd3/rIXPVqJQySFJTZBA==",
+    "sigB": "IZcbolhQQfVbsvOavyKLMN9FG+J4HsVef7qK1x98x5G0RSeaBNWruqWd2fuvyIB/DoRY6R8T6vDruuUSB3aKCw==",
+    "sigBadB": "rjqjEw2yANCBz/opLiRo0gYgGKl7Q2g/QlF47w/hBJZprmmXWxQWNgmPBnjk36mL3yRb/EaBHwV6kaIiWhWnBQ==",
+    "sigBadA": "dX3hiMyOroo9b6kW2PbxPgznEV+HbjW643nMEYqRd1U8WkuvMy1C8yDkT6O97CJdVl/NbXXwqL9bs+sGJgqmBg=="
+  },
+  "sig-incomplete@1.0.0": {
+    "file": "sig-incomplete-1.0.0.tar.gz",
+    "size": 564,
+    "sha256": "abe954492a5faa968f8b4a2968fba7d161de081696ec82aa6e58a9deed1dc4cc",
+    "sigA": "vgxo5KbfPK+wfAl92BqvIT966m03p3VP/hwJqCAR250Ea2+iQ7JCuW7b0ZkJqZkbPfJ73t6GU8LTlb+ekjucDA==",
+    "sigB": "P3EffSVk6c2hkRTM1fJZppYCqywm+m6tgy1mYyXeX6rPeoWcXD55wxZ87khGQP6BDod2hGsmC+IXx1RiGYg/CA==",
+    "sigBadB": "xvIZAtPtegxnNh1yOyYUIQgJXESbhyoWDBzWYUOvovDcJHq4nhqIoHjtrN3+01AhTMNdsIBsw6cN2pj27FmxDw==",
+    "sigBadA": "lWJVR6U7dSJGu2LvAzPubYE6ZfHASIZcFiukYvLJ6IFw+pCO8Kcm+IFsamKVLuaBpbDImUEiWf20D86OWJaNDQ=="
+  },
+  "sig-downgrade@1.0.0": {
+    "file": "sig-downgrade-1.0.0.tar.gz",
+    "size": 566,
+    "sha256": "e5d29c00bfb316f094919a05b58b3e5fdf9edb196d081e807c3ce4b96829c216",
+    "sigA": "xGRR2ZkPPBIeQdZHba85uYl1m/tTGBk7AjQNjM+8q8P/N+v+LIldY0xR+JywTbJ/xrh/yWcsYqHwP8wDfLYwAQ==",
+    "sigB": "CW19BxXMJE2BPo3M00KkJKQX7pvpoUPrSp8jUDCMrM2eD0SHy2LX/Ld+XSF3VGYOKtZG9B6XtU9N7GUipyV3Aw==",
+    "sigBadB": "Xi3wc9z9h+np1QTplvch3U6VX/w6MSg9yTcjrSxwShLLsvsF45/ORhzRCjEGB9RdUorfIj2S2b4YuSMcfo4VCw==",
+    "sigBadA": "lM8BA0zAKiSjfUBIebTrUu5Ke0T1xcY92T1zlimxk+tSpqKjorjJdrvGQYWc9W6bQ7GnmDgALDTwmGaR/1ebDA=="
+  },
+  "sig-downgrade@2.0.0": {
+    "file": "sig-downgrade-2.0.0.tar.gz",
+    "size": 566,
+    "sha256": "211fd7ef26546f005315d4678cdb734cda2021f4e7aad77fe22cc3eb12f571df",
+    "sigA": "rqJdZYpaJ/oVrfSQmlSIOCJW+5oQycm0td0XguNLuBQo17XidrcyLs/FgkTgwXWtSq/pDioivScwJVNtbuTwCw==",
+    "sigB": "PwdA64cAYZYeZgucGKCXq52ITlpV4PWNSozy80Jr3dl0QLTvjq5Ch2pzIatd1GD7XdQ+bn2l/9p644HeP/njBw==",
+    "sigBadB": "VVnLHktZ2w0WVR3yPPtJUcFwRouINX82aHlYEh88StrHbaQaC1dbg3cpMcHlMuFMrsunoHFAVgXkqo5j8G0hBA==",
+    "sigBadA": "IiH+41n9GF39EZbT04k2quvxKBAl635BjOsZ0uabUwYwLI6zBECx0BoZ8a9Z4WjaSQPyCZK59bROwiX3r9+QAQ=="
+  },
+  "sig-rotate@1.0.0": {
+    "file": "sig-rotate-1.0.0.tar.gz",
+    "size": 563,
+    "sha256": "f623a3b4f4c6461ad42ca8f48ae757498b61c2956354e392ce6ddcaf2dbc901a",
+    "sigA": "TljIbog9IGahCG3fZnaBxr/4oQziltIYg9o6fewAfVaBMxuJLUBtEE73kXoCvBrfNxhaylG+Yuy6fqp/tDQSDA==",
+    "sigB": "qZy8k+LG4jDKbLF7UYS/RIGhDcLj/tV6dx0cwnT+YpH8c0BFIuqMPOoSEzY5FvXiEGzNxYgj1rx4fPlcHjczCQ==",
+    "sigBadB": "aPqmL0VsWUztdxM2o2rQKDXgfDToPeMlHDujqZLRvk6ov1pfX2khr+GZvjhdgm4y20/xf+OuLTzfl9d2wLe2BQ==",
+    "sigBadA": "rihcTFQ3e4UeXZBrbcxuhmJdGb1m4Qe15kVGQkFcYmksG6epi1MGcc1xxVUV+6dZdOe0sH1HR3KBpIIpD5NcCg=="
+  },
+  "sig-rotate@2.0.0": {
+    "file": "sig-rotate-2.0.0.tar.gz",
+    "size": 563,
+    "sha256": "ab55f5fae0924e0b234ab0d58176bd18de31c5bc11406d02a0c88f7ab6844684",
+    "sigA": "MC0j+YiEidO1I9wPtAH1pNFG5XXI3mZj4x/qCzwtoyuKATpG3of3A6TQxG1JMqpSf2nd9UEbJ9E4MZ9xjSTJCw==",
+    "sigB": "9Jh89gONWCP6KNleUTZ6uVimXQjvOcImjIoHbfBgH2SMOiMIpwKCM6AHkTY+cV6SSQdF+PX8U/BGcHwkcLG0Bw==",
+    "sigBadB": "Pak8MiWd2xtDMT/xGQVwrTdgXU4+qwUhEoLWS4NqJeO0NgyIuHiI7We5d9K2osJBAl2nXEvlw1XySWbf895DCg==",
+    "sigBadA": "2Jz7wlDhgDtUsqajrzI07dwWTNQd+owSXobZRRPCngDSjDgj7VGPZSbDTMqKv9uGGalIM3sHZIMhaxZlItScBw=="
+  },
+  "sig-rotate@3.0.0": {
+    "file": "sig-rotate-3.0.0.tar.gz",
+    "size": 562,
+    "sha256": "09f747186a3e48d6e318853523aff053ffdb0fd2b840ce969f32d4bfd2698056",
+    "sigA": "YXf90vX8tWLHKDs826/FNj7x07wdK+VHm/N/8pHD7yssn1OaRl7UN4IlKtQnEV5Bi3V0DiwIRGc0AbLUSekrAw==",
+    "sigB": "o/jGu7V4AGL6anxJ5mnNe08dckCdcU9sVv25PQasCTaN4g+txsoHEhD6L/Pvx3VaZSGxWYf07yrmdT5Zbv1aAw==",
+    "sigBadB": "CKLFnWi0EHJq0zf16Q3otWTGR1STqslNOaRunLi7ep1PeZLtM20GwNIV10058O1o756tSlU/PMDfNAUttl5fDw==",
+    "sigBadA": "IvHzysku4X/6/7oFsgNIjP9pyjCApShH3j+0F4B85ME8sLpGUErA+CnbcV1DT2CYPRBdR2PkHeKGAzLh7deJAw=="
+  }
+}

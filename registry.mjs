@@ -17,7 +17,7 @@ import path from 'node:path';
 const DIR = import.meta.dirname;
 const REPO = 'jubnl/trek-plugin-testbed';
 const SHA = fs.readFileSync(path.join(DIR, 'commit.txt'), 'utf8').trim();
-const ART = JSON.parse(fs.readFileSync(path.join(DIR, 'out/artifacts.json'), 'utf8'));
+const ART = JSON.parse(fs.readFileSync(path.join(DIR, 'artifacts.json'), 'utf8'));
 const PUB = JSON.parse(fs.readFileSync(path.join(DIR, 'pubkeys.json'), 'utf8'));
 
 const url = (file) => `https://raw.githubusercontent.com/${REPO}/${SHA}/dist/${file}`;

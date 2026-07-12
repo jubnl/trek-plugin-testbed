@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Switch the fake registry's scenario, then click "Rescan" in Admin → Plugins.
+set -e
+cd "$(dirname "$0")"
+VALID="base rotate rotate-bad stale downgrade"
+if [ -z "$1" ]; then echo "current: $(cat scenario.txt)"; echo "usage: ./scenario <$(echo $VALID | tr ' ' '|')>"; exit 0; fi
+case " $VALID " in *" $1 "*) ;; *) echo "unknown scenario '$1' (valid: $VALID)"; exit 1;; esac
+echo "$1" > scenario.txt
+echo "scenario → $1   (now click Rescan in Admin → Plugins)"
